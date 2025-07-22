@@ -45,7 +45,6 @@ The objective is to **build a classification model** that can predict whether a 
 - Features like `international plan`, `voice mail plan`, and `number customer service calls` show strong relationships with churn.
 
 **Visualizations included:**
-- Churn distribution bar chart
 - Correlation heatmap
 - Count plots for categorical variables
 
@@ -109,7 +108,7 @@ Based on the model outputs and data analysis, SyriaTel can take the following ac
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python
 - Pandas, NumPy
@@ -121,9 +120,10 @@ Based on the model outputs and data analysis, SyriaTel can take the following ac
 
 ##  Files Included
 
-- `churn_modeling.ipynb`: Full notebook with code, analysis, visualizations, and evaluation
+- `phase 3 ML project.ipynb`: Full notebook with code, analysis, visualizations, and evaluation
 - `SyriaTel Customer Churn.csv`: Original dataset
 - `README.md`: Project documentation
+- `phase 3 ML presentation.ppt`
 
 ---
 
