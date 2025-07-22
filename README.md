@@ -13,7 +13,7 @@ The project includes:
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 
 **Source:** [Churn in Telecoms Dataset on Kaggle](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset)
 
@@ -65,18 +65,18 @@ Steps taken:
 ##  Models and Evaluation
 
 ### 1. Logistic Regression
-- **Accuracy:** 85.8%
-- **Precision:** 58.3%
-- **Recall:** 20.8%
-- **F1 Score:** 30.7%
+- **Accuracy:** 84.8%
+- **Precision:** 50%
+- **Recall:** 23.8%
+- **F1 Score:** 32.2%
 - **Confusion Matrix:**  
   - TP = 21, FP = 15, TN = 551, FN = 80
 
 ### 2. Decision Tree Classifier
-- **Accuracy:** 92.9%
-- **Precision:** 78.7%
-- **Recall:** 73.3%
-- **F1 Score:** 75.9%
+- **Accuracy:** 94.8%
+- **Precision:** 89.3%
+- **Recall:** 74.3%
+- **F1 Score:** 81.1%
 - **Confusion Matrix:**  
   - TP = 74, FP = 20, TN = 546, FN = 27
 
